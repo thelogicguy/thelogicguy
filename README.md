@@ -1,5 +1,5 @@
 <!--Banner-->
-![McD Banner Image](https://www.vectorstock.com/royalty-free-vector/seo-optimization-concept-vector-23012525)
+![McD Banner Image](./banner.mhtml)
 
 <!--CloudDev image-->
 <div>
@@ -25,6 +25,15 @@
 </p>
 
 ---
+<br />
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
 <br />
 
 <!--Languages and Tools Section-->       
