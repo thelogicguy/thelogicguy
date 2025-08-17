@@ -27,16 +27,15 @@
 ---
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<!--Tech Stack Section-->
+<h2 align="center">☁️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="center" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
 </picture>
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br />
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
