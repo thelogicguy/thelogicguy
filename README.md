@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner.jpg" alt="McD Banner Image" width="500"/>
+  <img src="./banner.jpg" alt="McD Banner Image" width="700"/>
 </p>
 
 <!--CloudDev image-->
