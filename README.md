@@ -36,13 +36,6 @@
 <br />
 
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=kubernetes,jenkins,linux,bash,nginx,md,npm,nodejs,maven,postgres,mongo,git,github,githubactions,vscode,prometheus,grafana,docker,aws,azure,gcp,notion,ansible,terraform,$"  />
-</p>
-
-
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
