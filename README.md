@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner.jpg" alt="McD Banner Image" width="700" height="250"/>
+  <img src="./banner.jpg" alt="McD Banner Image" width="900" height="250"/>
 </p>
 
 
@@ -125,19 +125,19 @@
 <h2 align="center">🤝 Be My Buddy!!! 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/mcdonald-daniel-86352b135/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="./linkedin.png" width=50 height=50 alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
 <a href="mailto:daaniel.macdonald@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=daaniel.macdonald@gmail.com mail style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt=daaniel.macdonald@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/therealmacdonald__" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=therealmacdonald__ Instagram style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt=therealmacdonald__ Instagram style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://twitter.com/thelogicalguy_" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="thelogicalguy_ Twitter" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="thelogicalguy_ Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
 
