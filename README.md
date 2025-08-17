@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner.jpg" alt="McD Banner Image" width="800"/>
+  <img src="./banner.jpg" alt="McD Banner Image" width="500"/>
 </p>
 
 <!--CloudDev image-->
@@ -28,24 +28,40 @@
 
 ---
 
-<!--Languages and Tools Section-->       
 <!--Tech Stack Section-->
-<h2 align="center">☁️ Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
-</picture>
+<h2 align="center">☁Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Tech Stack Animation" src="./Skills_Animation_White.gif" width="600">
+  </picture>
+</p>
 <br />
+
 
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/thelogicguy/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thelogicguy&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/thelogicguy">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=thelogicguy&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=thelogicguy&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thelogicguy&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/thelogicguy/achievements?format=svg&limit=6"
+      width="400"
+    />
+  </a>
 </p>
 <br />
+
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
