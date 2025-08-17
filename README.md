@@ -1,5 +1,5 @@
 <!--Banner-->
-![McD Banner Image](./banner.mhtml)
+![McD Banner Image](./banner.jpg)
 
 <!--CloudDev image-->
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Macdonald! 
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Macdonald! 
 *Infrastructure Craftsman (Cloud Engineering|DevOps|DevSecOps|CICD|Infrastructure as Code)*
 <br /> 
 
@@ -32,9 +32,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="right" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
+  <img align="center" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
 </picture>
-<br /><br /><br />
+<br />
 
 
 <!--Trophies Section-->   
