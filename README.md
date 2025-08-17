@@ -1,12 +1,8 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner.jpg" alt="McD Banner Image" width="700"/>
+  <img src="./banner.jpg" alt="McD Banner Image" width="700" height="250"/>
 </p>
 
-<!--CloudDev image-->
-<div>
-  <img align="right" width="40%" src="https://www.freepik.com/premium-vector/man-is-working-laptop-outdoors-with-cloud-background-worker-installing-cloud-database-simple-minimalist-flat-vector-illustration_187418021.htm#fromView=keyword&page=1&position=26&uuid=839438fa-0d5c-4ab8-94f5-ca7ca40f1f5e&query=Cloud+Engineer+Illustration">
-</div>
 
 <!--Header Name-->
 #  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Macdonald! 
