@@ -25,7 +25,6 @@
 </p>
 
 ---
-<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
@@ -36,12 +35,12 @@
 </picture>
 <br />
 
+
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=kubernetes,jenkins,linux,bash,nginx,md,npm,nodejs,maven,postgres,mongo,git,github,githubactions,vscode,prometheus,grafana,docker,aws,azure,gcp,notion,ansible,terraform,$"  />
 </p>
-<br />
 
 
 <!--Trophies Section-->   
@@ -49,7 +48,6 @@
 <p align="center">
   <a href="https://github.com/thelogicguy/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=thelogicguy&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
 </p>
 <br />
 
