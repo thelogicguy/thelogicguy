@@ -131,8 +131,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-------
-
-Credit: [Kiran1689](https://github.com/Kiran1689)
-
-Last Edited on: 29/11/2023
