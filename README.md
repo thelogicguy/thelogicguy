@@ -32,7 +32,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="center" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
+  <img align="right" alt="Tech Stack Animation" src="./Skills_Animation_White.gif">
 </picture>
 <br /><br /><br />
 
