@@ -4,7 +4,7 @@
 </p>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Macdonald!  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, ɪ'ᴍ Macdonald!👨‍💻  
 *Infrastructure Craftsman (Cloud Engineering | DevOps | DevSecOps | CI/CD | Infrastructure as Code)*  
 
 ---
@@ -15,8 +15,7 @@ Cloud & DevOps Engineer passionate about designing and automating cloud-native i
 Skilled in **AWS, Kubernetes, Docker, Terraform, CI/CD, and GitOps**, I focus on building **scalable, secure, and resilient cloud environments** that enable fast and reliable software delivery.  
 
 - 💡 Interests: Cloud Engineering, Site Reliability (SRE), DevSecOps, and AI-driven automation  
-- 📚 Currently learning Kubernetes, GitOps, and Terraform  
-- 🚀 Goal: Landing a remote $5K+/month Cloud/DevOps role  
+- 📚 Continous learning, Continous Integration, and Continous Delivery  
 - 📂 Explore my repositories for projects on Cloud, DevOps, and Infrastructure as Code  
 </p>
 
@@ -51,15 +50,6 @@ Skilled in **AWS, Kubernetes, Docker, Terraform, CI/CD, and GitOps**, I focus on
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
----
-
-<!--Highlighted Projects-->
-<h2 align="center">📌 Hɪɢʜʟɪɢʜᴛᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
-
-- 🔧 [**DevOps Microservices Project**](#) – Node.js app with Terraform, Kubernetes, and GitOps  
-- 📦 [**CI/CD Pipeline Demo**](#) – Automated build & deploy pipeline with GitHub Actions  
-- ☁️ [**Cloud-Native GitOps Lab**](#) – End-to-end GitOps workflow with ArgoCD  
 
 ---
 
