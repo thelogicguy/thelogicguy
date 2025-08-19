@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner.avif" alt="McD Banner Image" width="900" height="250"/>
+  <img src="./banner.jpg" alt="McD Banner Image" width="950" height="300"/>
 </p>
 
 <!--Header Name-->
