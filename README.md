@@ -55,50 +55,6 @@ This project implements a custom Command Line Interface (CLI) tool called vpcctl
 ### Blue/Green Deployment: https://github.com/thelogicguy/hng13-stage2-blue-green-deployment.git
 This project demonstrates a Blue/Green deployment strategy using Nginx upstreams for seamless failover between two identical Node.js application instances, enhanced with real-time monitoring and Slack alerts.
 
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thelogicguy&no-bg=true&row=2&column=6&theme=monokai" />
-</p>
-
----
-
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=thelogicguy&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
-      <p align="center">
-        <img src="https://streak-stats.demolab.com?user=thelogicguy&theme=nightowl" alt="Streak Stats"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Latest Project</strong></h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=thelogicguy&repo=cryptos&theme=nightowl&show_owner=true" alt="Latest Project"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Top Contributions</strong></h3>
-      <p align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=thelogicguy&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Contributions"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
