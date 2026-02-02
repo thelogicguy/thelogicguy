@@ -11,12 +11,18 @@
 
 <!--Start Intro-->
 <p align="left">
-Cloud & DevOps Engineer passionate about designing and automating cloud-native infrastructures.  
-Skilled in **AWS, Kubernetes, Docker, Terraform, CI/CD, and GitOps**, I focus on building **scalable, secure, and resilient cloud environments** that enable fast and reliable software delivery.  
+DevOps Engineer with 3 years of experience building and operating cloud-native platforms. Based in Lagos, Nigeria | Currently at Keystone Bank | Open to opportunities & collaboration.  
 
-- 💡 Interests: Cloud Engineering, Site Reliability (SRE), DevSecOps, and AI-driven automation  
-- 📚 Continous learning, Continous Integration, and Continous Delivery  
-- 📂 Explore my repositories for projects on Cloud, DevOps, and Infrastructure as Code  
+## What I Do
+- Build infrastructure using Terraform, Ansible, and CloudFormation
+- Design CI/CD pipelines with GitHub Actions, Jenkins, and ArgoCD
+- Implement observability with Prometheus, Grafana, and distributed tracing
+- Containerise and orchestrate with Docker and Kubernetes
+
+## Current Focus
+- Learning: Platform Engineering 
+- Building: Blue/Green Deployment with Nginx
+- Writing about: Virtual Private Cloud on Linux
 </p>
 
 <!--Profile Count Badge-->
