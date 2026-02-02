@@ -25,13 +25,6 @@ DevOps Engineer with 3 years of experience building and operating cloud-native p
 - Writing about: Virtual Private Cloud on Linux
 </p>
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thelogicguy&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="profile views" />
-</p>
-
----
-
 ## Tech Stack
 
 **Cloud & Infrastructure**
@@ -53,6 +46,14 @@ DevOps Engineer with 3 years of experience building and operating cloud-native p
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 ---
+
+## Featured Projects
+
+### linux-vpc-project: https://github.com/thelogicguy/linux-vpc-project.git
+This project implements a custom Command Line Interface (CLI) tool called vpcctl that simulates the core functionality of a Virtual Private Cloud (VPC) using native Linux networking primitives.
+
+### Blue/Green Deployment: https://github.com/thelogicguy/hng13-stage2-blue-green-deployment.git
+This project demonstrates a Blue/Green deployment strategy using Nginx upstreams for seamless failover between two identical Node.js application instances, enhanced with real-time monitoring and Slack alerts.
 
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
