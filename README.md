@@ -5,7 +5,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, ɪ'ᴍ Macdonald!👨‍💻  
-*Infrastructure Craftsman (Cloud Engineering | DevOps | DevSecOps | CI/CD | Infrastructure as Code)*  
+*Infrastructure Craftsman (Cloud Engineering | DevOps | DevSecOps | Platform Engineering| CI/CD | Infrastructure as Code)*  
 
 ---
 
